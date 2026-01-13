@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi, I'm Saumya Pant 👋
+
+🎓 Aspiring Full Stack Developer   
+🌱 Passionate about writing clean code and improving every day
+
+---
+
+## 🚀 Skills
+- HTML5  
+- CSS3
+- Java
+- Problem Solving
+
+---
+
+## 📂 Projects
+- Beginner web projects (learning-based)
+- More coming soon as I grow 🚀
+
+---
+
+## 🔗 Connect with me
+- www.linkedin.com/in/saumya-pant-0a7a24399
+
+---
+
+⭐ Always learning. Always improving.
+
 
 <!--
 **saumyapant-dev/saumyapant-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
