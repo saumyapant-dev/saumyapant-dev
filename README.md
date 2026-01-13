@@ -1,6 +1,6 @@
 # Hi, I'm Saumya Pant 👋
 
-🎓 Aspiring Full Stack Developer   
+🎓 Aspiring Web & Software Developer    
 🌱 Passionate about writing clean code and improving every day
 
 ---
