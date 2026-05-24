@@ -8,8 +8,10 @@
 ## 🚀 Skills
 - HTML
 - CSS
+- Javascript
 - Java
 - Problem Solving
+- Learning MERN Stack
 
 ---
 
